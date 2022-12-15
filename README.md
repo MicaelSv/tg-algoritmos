@@ -25,4 +25,4 @@ Se quiser alterar os vértices de origem e destino nos algoritmos de prim, dijks
 
 Como o kruskal já está com o txt importado dentro do código, basta fazer o make como nos exemplos anteriores, e depois digitar ./kruskal que ele irá rodar
 
-##### Esses comandos eu utilizei no wsl, que é o terminal do linux nativo pro windows.
+##### Esses comandos foram utilizados no wsl, que é o terminal do linux nativo pro windows.
