@@ -6,6 +6,8 @@
 #define sz 1000
 #define inf (1<<28)
 
+//algoritmo dikstra que calcula o custo minimo entre dois vertices; alunos: Micael Silva e Jose Janio.
+
 using namespace std;
 
 int dijkstra(int st, int en, int par[], int cost[], vector<int> adj[], vector<int> w[]){
